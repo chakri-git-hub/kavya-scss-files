@@ -1,0 +1,20 @@
+{
+  "name": "@chakri-git-hub/kavya-scss-files",
+  "version": "1.0.0",
+  "description": "test scss files",
+  "main": "dist/css/index.css",
+  "style": "dist/css/index.css",
+  "scripts": {
+    "build-css": "sass scss/index.scss dist/css/index.css"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "URL": "https://github.com/chakri-git-hub/kavya-scss-files"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
